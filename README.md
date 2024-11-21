@@ -26,6 +26,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=rmdlaska11&show_icons=true&include_all_commits=true&count_private=true&theme=light&hide_border=false" height="150" alt="GitHub Stats" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmdlaska11&layout=compact&langs_count=6&theme=light&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmdlaska11&layout=donut&langs_count=6&theme=light&hide_border=false" height="150" alt="Top Languages" />
 </div>
 

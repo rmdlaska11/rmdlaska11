@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/rmdlaska11)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/ramadhanlaska11)
 
-### 📂 My Portofolio
+### 📂 My Portofolio:
 [RPubs](https://rpubs.com/rmdlaska11)
 
 

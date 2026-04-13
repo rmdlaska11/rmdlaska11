@@ -28,8 +28,11 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rmdlaska11&show_icons=true&include_all_commits=true&count_private=true&theme=light&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rmdlaska11&show_icons=true&theme=default" height="150"/>
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmdlaska11&layout=compact&langs_count=10&theme=light&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rmdlaska11&layout=compact&langs_count=6&theme=default" height="150"/>
+
 </div>
